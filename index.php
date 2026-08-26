@@ -76,11 +76,17 @@
                     <a href="#projects">Projects</a>
                 </li>
 
-                <li>
-                    <a href="#contact" class="nav-button">
-                        Contact
-                    </a>
-                </li>
+<li>
+    <a href="#contact">
+        Contact
+    </a>
+</li>
+
+<li>
+    <a href="auth.php" class="nav-button">
+        Login / Register
+    </a>
+</li>
 
             </ul>
 
