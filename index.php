@@ -1,7 +1,3 @@
-<?php
-    $name = "Glenn";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +20,7 @@
 
 <body>
 
-    <h2>Hello, <?php echo $name; ?>!</h2>
+    <h2>Hello, Glenn!</h2>
 
     <!-- Decorative background lights -->
     <div class="background-light light-one"></div>
@@ -83,8 +79,8 @@
 </li>
 
 <li>
-    <a href="auth.php" class="nav-button">
-        Login / Register
+    <a href="#contact" class="nav-button" title="Login is unavailable in the temporary static preview">
+        Contact Me
     </a>
 </li>
 
